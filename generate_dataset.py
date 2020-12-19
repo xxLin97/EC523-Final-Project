@@ -6,7 +6,7 @@ import h5py
 import torch
 import cv2
 import glob
-import torch.utils.data as udata
+
 
 
 def normalize(data):
